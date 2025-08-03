@@ -21,7 +21,7 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 
 ## Live Dashboard:
 
-Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTNkNzc2YTItMjBjNS00NzRiLWExNDktMThhOTM0MDZiMzJlIiwidCI6IjQ5ZTkxN2Q1LTQxMDMtNDk4NS1iYzlhLTQ1MTMyNjRlNDUxYiJ9&pageName=59c106a34de2767eb88b)
+Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY4OGMzOGItYzExYy00OTMzLWEzMzUtNjgwMDBhODkwNjVkIiwidCI6IjQ5ZTkxN2Q1LTQxMDMtNDk4NS1iYzlhLTQ1MTMyNjRlNDUxYiJ9&pageName=59c106a34de2767eb88b)
 
 
 ## Tools & Technique:
@@ -66,18 +66,18 @@ The datasets are provided by Codebasics. Here you can see the overview:
 
 
   <p align="center">
-    <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/Datasets/data_overview/data-overview.png?raw=true" alt="Dataset Overview" >
+    <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/Datasets/data_overview/data-overview.png?raw=true" >
   </p>
 
 
 <p align="center"> Meta Data </p>
 
-> For understanding the dataset in details, [Click Here](https://github.com/Sarim0007/GoodCabs_analysis/blob/main/Problem_statments/meta_data.txt) to view meta data details of given database and tables. 
+> For understanding the dataset in details, [Click Here](https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/Problem_statments/meta_data.txt) to view meta data details of given database and tables. 
 
 
 
  
-Additionally, I have added "City Category" dataset which is created based on latest information available on internet. You can see the table [here](https://github.com/Sarim0007/GoodCabs_analysis/blob/main/Datasets/csv_files/city-category.csv) 
+Additionally, I have added "City Category" dataset which is created based on latest information available on internet. You can see the table [here](https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/Datasets/csv_files/city-category.csv) 
 
 
 > [!IMPORTANT]
@@ -87,7 +87,7 @@ Additionally, I have added "City Category" dataset which is created based on lat
 Here you can check the Data Model which is used for this project. 
 
 <p align="center">
-<img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/Data-model/data%20model.png?raw=true" >
+<img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/Data-model/data%20model.png?raw=true" >
 </p>
 
 ## Key Metrics:
@@ -121,7 +121,7 @@ Here you can check the Data Model which is used for this project.
 
 <p align="center"> Home Page </p>
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/dashboard_preview/Home_page.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/dashboard_preview/Home_Page.png?raw=true">
 </p>
 <br>
 <hr>
@@ -132,7 +132,7 @@ Here you can check the Data Model which is used for this project.
  </p>
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/dashboard_preview/Trip_page.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/dashboard_preview/Trip_page.png?raw=true ">
 </p>
 <br>
 <hr>
@@ -143,7 +143,7 @@ Here you can check the Data Model which is used for this project.
  </p>
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/dashboard_preview/Passenger_page.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/dashboard_preview/Passenger_page.png?raw=true">
 </p>
 <br>
 <hr>
@@ -154,7 +154,7 @@ Here you can check the Data Model which is used for this project.
  </p>
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/dashboard_preview/Operation_page.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/dashboard_preview/Operation_page.png?raw=true">
 </p>
 
 
@@ -163,58 +163,58 @@ Here you can check the Data Model which is used for this project.
 1. Identify the top 3 and bottom 3 cities by total trips over the entire analysis period.
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS1.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS1.png?raw=true">
 </p>
 
 2. Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS2.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS2.png?raw=true">
 </p>
 
 3. Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
 
 <p align="center"><strong> Higher </strong></p>
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS3_high_new.png?raw=true">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS3_high_repeated.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS3_high_new.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS3_high_repeated.png?raw=true">
 </p>
 
 <p align="center"><strong> Lower </strong></p>
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS3_low_new.png?raw=true">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS3_low_repeated.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS3_low_new.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS3_low_repeated.png?raw=true">
 </p>
 
 4. For each city, identify the month with the highest total trips (peak demand) and the month with the lowest total trips (low demand). 
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS4.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS4.png?raw=true">
 </p>
 
 5. Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS5.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS5.png?raw=true">
 </p>
 
 6. Identify which cities contribute most to higher trip frequencies among repeat passengers, and examine if there are distinguishable patterns between tourism-focused and business-focused cities.
 
   <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS6.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS6.png?raw=true">
 </p>
 
 7. For each city, evaluate monthly performance against targets for total trips, new passengers, and average passenger ratings. Determine if each metric met, exceeded, or missed the target, and calculate the percentage difference.
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS7.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS7.png?raw=true">
 </p>
 
 8. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
 
 <p align="center">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS8_cities.png?raw=true">
-  <img src="https://github.com/Sarim0007/GoodCabs_analysis/blob/main/images/Primary_analysis_output/PS8_months.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS8_cities.png?raw=true">
+  <img src="https://github.com/mukarramibrahimi683/Analysis-Project/blob/main/images/Primary_analysis_output/PS8_months.png?raw=true">
 </p>
 
 ## Secondary Analysis:
